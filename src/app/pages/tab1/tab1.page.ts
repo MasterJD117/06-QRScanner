@@ -9,4 +9,10 @@ export class Tab1Page {
 
   constructor() {}
 
+
+  onClick(){
+    console.log('click');
+    
+  }
+
 }
